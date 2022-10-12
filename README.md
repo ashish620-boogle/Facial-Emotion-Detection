@@ -11,6 +11,8 @@ This dataset contains 7 Emotions :-
 5. Sad
 6. Surprise 
 7. Neutral
+
+# SCREENSHOTS FOR THE PROJECT
 ![Screenshot from 2022-10-12 23-24-04](https://user-images.githubusercontent.com/56781746/195414634-e1631d98-0662-45ba-b1c2-a54ad0486ae6.png)
 ![Screenshot from 2022-10-12 23-23-57](https://user-images.githubusercontent.com/56781746/195414550-985fc93e-261b-466f-96f7-b27e506b6272.png)
 ![Screenshot from 2022-10-12 23-23-37](https://user-images.githubusercontent.com/56781746/195414422-5391d44f-6478-4e43-ab96-39ea70a6ecd7.png)
